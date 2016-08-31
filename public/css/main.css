@@ -1,0 +1,35 @@
+@import url(//fonts.googleapis.com/css?family=Lato:700);
+
+body {
+    margin:0;
+    font-family:'Lato', sans-serif;
+    text-align:center;
+    color: #999;
+}
+h1 {
+    font-size: 32px;
+    margin: 16px 0 0 0;
+}
+.small-td{
+    width: 35%;
+}
+.black {
+    color: black;
+}
+.title{
+    margin-bottom: 55px;
+    margin-top: 55px;
+}
+.form-container {
+    text-align: center;
+    padding-left: 30%;
+    padding-right: 28%;
+    height: 85px;
+}
+.table-conteiner{
+    border: 2px solid #E5E5E5;
+    border-radius: 5px;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+
